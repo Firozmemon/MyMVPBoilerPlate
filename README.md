@@ -10,7 +10,8 @@ I have referred sample template available on github, as base for this prototype,
 
 
 # License
-``` Copyright 2017 Firoz Memon
+```
+   Copyright 2017 Firoz Memon
 
    Licensed under the Apache License, Version 2.0 (the "License");
    you may not use this file except in compliance with the License.
